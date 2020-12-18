@@ -20,3 +20,7 @@ https://my.tasjeel.ae/clientarea.php
 https://www.buffaloonline.co.uk/cp/clientarea.php
 
 https://billing.exabytes.my/mypanel/clientarea.php
+
+https://www.cccamserver.xyz/clientarea.php
+
+https://whmcsbypass.host/clientarea.php
