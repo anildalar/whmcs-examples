@@ -1,6 +1,8 @@
 # whmcs-examples
 whmcs-examples
 
+https://www.whmcs.com/members/verifydomain.php
+
 inurl /clientarea.php
 
 https://www.bullten.com/clientarea.php
